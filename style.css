@@ -1,0 +1,105 @@
+*{
+    
+}
+
+.sidemenu{
+    display: flex;
+    flex-direction: column;
+}
+
+.navtext:hover{
+    width: 15%;
+    background-color: lime;
+}
+
+.banner{
+    margin-left: 25%;   
+    position: absolute; top: 5px;
+}
+
+.header{ 
+    position: fixed;
+}
+
+.images{
+   margin: 5%;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-evenly;
+   position: relative; bottom 70%;
+}
+
+.image{
+    margin: 6%;
+}
+
+.image{
+    margin: 6%;
+}
+
+.image{
+    margin: 6%;
+}
+
+.image{
+    margin: 6%;
+}
+
+.post{
+    margin: ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    position: relative; bottom: 65px;
+}
+
+.posttext{
+    margin: 5%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: relative; bottom: 230px;
+}
+
+.pt1{
+    margin: 5%;
+    
+}
+
+.pt2{
+    margin: 5%;
+}
+
+.pt3{
+    margin: 5%;
+}
+
+.pt4{
+    margin: 5%;
+}
+
+.buttons{
+    margin: 5%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    position: relative; bottom: 400px;
+}
+
+.button1{
+    margin: 5%;
+}
+
+.button2{
+    margin: 5%;
+}
+
+.button3{
+    margin: 5%;
+}
+
+.button4{
+    margin: 5%;
+}
